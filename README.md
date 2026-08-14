@@ -23,7 +23,6 @@ OlongNotes lets students upload, organize, and browse class notes and reviewers 
 - [Roadmap](#roadmap)
 - [Our Strategy](#our-strategy-advocacy-and-validation-before-scale)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
